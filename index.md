@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Experience as Outreachy Intern at Tensorflow:
 
-You can use the [editor on GitHub](https://github.com/Drishttii/Drishttii.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a blog describing my experience as an Outreachy Intern at Tensorflow Organization. It provides the details about my work and interactions with the Tensorflow team and mentors. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Meetings:
+We had our first kickoff meeting on 24th May (2021) when we met each other for the very first time and started getting acquainted. I had interacted with Kevin Murphy (my mentor) before during the Outreachy contribution period. Our daily meetings and agile working style had become an important part of my life for the last few months.
 
-### Markdown
+## Overview:
+Initially our challenge was to convert more than 90 MatLab legacy demos into python. I found myself with working on a lot of issues to convert matlab code for gaussian processes. I converted matlab codes for gaussimputationdemoem, gprdemo, gaussplot, gpclassifier, gpspatial and others using Gpy, sklearn, gpytorch, etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Later on, I was assigned to organize and make pyprobml standardised. Initially, I started converting scripts to use savefig function and getting data from probml-data repo manually. Then, I was welcomed into Gutenberg (toolset for scientific publication and authoring) to write scripts for efficiently logging errors in pyprobml scripts, install updates and bring consistency in scripts. 
 
-```markdown
-Syntax highlighted code block
+Towards the end of my period I made a few notebook versions of text-autoencoders, mix PPCA and pixelCNN. This included creating notebooks for training, inferences and samples of text-autoencoders model, reconstructing masked samples and generating samples and outliers for mixed PPCA model.
 
-# Header 1
-## Header 2
-### Header 3
+## Afterword:
+Being a part of the PyProbml team was my first experience with an open-scource community. I would like to thank my mentors Kevin Murphy and Mahmoud Soliman for this wonderful experience and inspiring me to contribute more to the open source community. I will miss working with my team.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Gitfolio:
 
-**Bold** and _Italic_ and `Code` text
+[fisherLDAdemo](https://github.com/probml/pyprobml/pull/332)
 
-[Link](url) and ![Image](src)
-```
+[gprdemochangehparams](https://github.com/probml/pyprobml/pull/346)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[gaussimputationdemoem](https://github.com/probml/pyprobml/pull/353)
 
-### Jekyll Themes
+[LinearRobustDemoCombined](https://github.com/probml/pyprobml/pull/442)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Drishttii/Drishttii.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[mixexpDemoOneToMany](https://github.com/probml/pyprobml/pull/447)
 
-### Support or Contact
+[subSuperGaussPlot](https://github.com/probml/pyprobml/pull/491)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[wiPlotDemo](https://github.com/probml/pyprobml/pull/492)
+
+[randomWalk0to20Demo](https://github.com/probml/pyprobml/pull/493)
+
+[errorCorrectingCodeDemo](https://github.com/probml/pyprobml/pull/494)
+
+[gpcDemo2d](https://github.com/probml/pyprobml/pull/508)
+
+[hmmSelfLoopDist](https://github.com/probml/pyprobml/pull/509)
+
+[ggmLassoDemo](https://github.com/probml/pyprobml/pull/510)
+
+[seqlogoDemo](https://github.com/probml/pyprobml/pull/511)
+
+[chowliuTreeDemo](https://github.com/probml/pyprobml/pull/519)
+
+[gpSpatialDemoLaplace](https://github.com/probml/pyprobml/pull/520)
+
+[relevanceNetworkNewsgroupDemo](https://github.com/probml/pyprobml/pull/524)
+
+[pytorch lightning data module](https://github.com/probml/pyprobml/pull/574)
+
+
+
+
+
