@@ -52,7 +52,15 @@ Being a part of the PyProbml team was my first experience with an open-scource c
 
 [pytorch lightning data module](https://github.com/probml/pyprobml/pull/574)
 
+[text-autoencoders model](https://github.com/probml/probml-notebooks/pull/5)
 
+[text-autoencoders model training](https://github.com/probml/probml-notebooks/pull/6)
+
+[mix PPCA model](https://github.com/probml/probml-notebooks/pull/9)
+
+[mix PPCA model training](https://github.com/probml/probml-notebooks/pull/8)
+
+[pixel cnn and vqvae](https://github.com/probml/probml-notebooks/pull/15)
 
 
 
